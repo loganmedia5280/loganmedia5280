@@ -4,7 +4,7 @@
 
 ## 🛠️ Skills & Expertise
 - 🐍 Python | SQL | APIs | Data Pipelines
-- 🔧 Built tools for Basis DSP, Google Ad Manager, and Meta
+- 🔧 Built tools on top of Ad Provider APIs i.e. The Trade Desk, Basis DSP, Google Ad Manager, Meta, and more
 - 📊 Saved hundreds of hours through automation
 
 ## 🚀 Experience
